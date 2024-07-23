@@ -9,6 +9,7 @@
 2. This MATLAB code is tested on Windows 10 64bit with MATLAB 2022b.
 3. Usages:<br>
 	(1) Put the images into the "/Image" directory.<br>
+	
 	(2) Please run “Demo.m” file to generate the result in "/Result" directory.<br>
 	
 	For any questions, please contact hgjouc@126.com.
